@@ -1,5 +1,3 @@
-I’m currently working on [Realar state manager](https://github.com/betula/realar) for [React](https://reactjs.org/).
-
 Cheers and happy coding! 👋
 
 <!--
