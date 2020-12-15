@@ -1,4 +1,4 @@
-I’m currently working on [super light and fast reactive box](https://github.com/betula/reactive-box).
+I’m currently working on [super light and fast reactive framework](https://github.com/betula/reactive-box) :wink:
 
 Cheers and happy coding! 👋
 
