@@ -1,4 +1,6 @@
-I’m currently working under [super light and fast reactive framework](https://github.com/betula/realar) :wink:
+I’m currently working under [super light and fast reactive framework](https://github.com/betula/realar) :wink: 
+
+<a href="https://www.paypal.me/betula17/3"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="To sponsor Slava Birch's research in the Open Source area"/></a>
 
 [My articles on dev.to](https://dev.to/betula) :book:
 
