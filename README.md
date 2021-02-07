@@ -6,7 +6,9 @@ Unexpectedly, the author of the [![500k+ downloaded](https://img.shields.io/npm/
 
 Cheers and happy coding! 👋
 
+<p align="center">
 <a href="https://www.paypal.me/betula17/3"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="To sponsor Slava Birch's research in the Open Source area"/></a>
+</p>
 <!--
 **betula/betula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
