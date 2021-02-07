@@ -1,13 +1,12 @@
 I’m currently working under [super light and fast reactive framework](https://github.com/betula/realar) :wink: 
 
-<a href="https://www.paypal.me/betula17/3"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="To sponsor Slava Birch's research in the Open Source area"/></a>
-
 [My articles on dev.to](https://dev.to/betula) :book:
 
 Unexpectedly, the author of the [![500k+ downloaded](https://img.shields.io/npm/dt/svg-path-bounding-box?style=flat-square) npm package](https://www.npmjs.com/package/svg-path-bounding-box) :flushed:
 
 Cheers and happy coding! 👋
 
+<a href="https://www.paypal.me/betula17/3"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="To sponsor Slava Birch's research in the Open Source area"/></a>
 <!--
 **betula/betula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
