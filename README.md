@@ -5,7 +5,10 @@ I’m currently working under [super light and fast reactive framework](https://
 Unexpectedly, the author of the [![500k+ downloaded](https://img.shields.io/npm/dt/svg-path-bounding-box?style=flat-square) npm package](https://www.npmjs.com/package/svg-path-bounding-box) :flushed:
 
 Cheers and happy coding! 👋
-
+<p align="left">
+    <a href="https://t.me/betula17"><img alt="Telegram"
+                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=flat-square&logo=telegram&logoColor=white"></a>
+</p>
 <p align="left">
 <a href="https://www.paypal.me/betula17/3"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="To sponsor Slava Birch's research in the Open Source area"/></a>
 </p>
