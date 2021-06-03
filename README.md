@@ -1,4 +1,4 @@
-I’m currently working on [super light and fast reactive framework](https://github.com/betula/realar) :wink: 
+I’m currently working on the [advanced state manager for React](https://github.com/betula/realar) :wink: 
 
 [My articles on dev.to](https://dev.to/betula) :book:
 
