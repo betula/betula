@@ -1,4 +1,4 @@
-I’m currently working on the [advanced state manager](https://github.com/betula/realar) for React :wink: 
+I’m currently working on the [advanced state manager](https://github.com/betula/realar) for React :+1: 
 
 [My articles on dev.to](https://dev.to/betula) :book:
 
