@@ -1,3 +1,5 @@
+Looking for a remote job GMT+7 will be so glad for it :star: [mail@betula.co](mailto:mail@betula.co)
+
 I’m currently working on the [advanced state manager](https://github.com/betula/realar) for React :+1: 
 
 [My articles on dev.to](https://dev.to/betula) :book:
