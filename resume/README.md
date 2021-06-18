@@ -11,13 +11,13 @@ Software developer and Open Source enthusiast
 
 ## Skills
 
-#### Fundamental
+### Fundamental
 - Typescript, Javascript
 - Object-oriented, functional, declarative, and imperative paradigm
 - Understanding decomposition principles and architecture of enterprise applications
 - Kanban and Scrum methodologies
 
-#### Fullstack expertise
+### Fullstack expertise
 
 - React, Redux (+eco), Mobx
 - Node.js (+express eco), NestJS
@@ -30,7 +30,7 @@ Software developer and Open Source enthusiast
 
 ## Experience
 
-#### The most valuable last experience
+### The most valuable last experience
 
 **[Realar advanced state manager](https://github.com/betula/realar#readme)** - the progressive Open Source library that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
 
