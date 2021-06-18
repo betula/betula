@@ -9,7 +9,7 @@ Software developer and Open Source enthusiast
 
 ## About
 
-## Skils
+## Skills
 
 ##### Fundamental
 - Typescript, Javascript
