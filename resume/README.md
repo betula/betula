@@ -11,13 +11,13 @@ Software developer and Open Source enthusiast
 
 ## Skills
 
-##### Fundamental
+#### Fundamental
 - Typescript, Javascript
 - Object-oriented, functional, declarative, and imperative paradigm
 - Understanding decomposition principles and architecture of enterprise applications
 - Kanban and Scrum methodologies
 
-##### Fullstack expertise
+#### Fullstack expertise
 
 - React, Redux (+eco), Mobx
 - Node.js (+express eco), NestJS
