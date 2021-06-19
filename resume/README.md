@@ -58,7 +58,7 @@ Software developer and Open Source enthusiast
 - Co-Founder, software developer, and architector roles.
 - Developed the React Native app from the initial commit up to the Apple app store publishing.
 - Understanding of the Apple purchasing process.
-- Experience in native animations, resource caching, and analytics integration.
+- Experience in native animations, resources caching, and analytics integration.
 
 ### The experience in the big companies teams
 
