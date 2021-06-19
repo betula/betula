@@ -26,7 +26,7 @@ Software developer and Open Source enthusiast
 
 ### Fullstack expertise
 
-- React, Redux (+eco), Mobx
+- React, Mobx, Redux (+eco)
 - Node.js (+express eco), NestJS
 - React native
 - Webpack (+eco) with [custom plugin development experience](https://github.com/betula/babel-plugin-jsx-wrapper)
