@@ -37,13 +37,6 @@ Software developer and Open Source enthusiast
 
 ## Experience
 
-### Technical writer
-
-+ [State manager of dream](https://dev.to/betula/state-manager-of-dream-5766-temp-slug-158417?preview=4b030f68851211fd02704f12d7742ce193a8f9c893afd1e4249b88023e14d57b1e5a8a02c4aaa924f22beb44c69bba20617a0523e952120eb97ef344)
-+ [Sharing React hooks stateful logic between components](https://dev.to/betula/sharing-react-hooks-stateful-logic-between-components-1g3o)
-+ [Reuse React hooks in state sharing](https://dev.to/betula/reuse-react-hooks-in-state-sharing-1ell)
-+ [664 Bytes reactivity](https://dev.to/betula/reactive-box-1hm5)
-
 ### The most valuable last experience
 
 **[Realar advanced state manager](https://github.com/betula/realar#readme)** - the progressive Open Source library that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
@@ -62,12 +55,18 @@ Software developer and Open Source enthusiast
 
 ### The experience in the big companies teams
 
-**[SAMSUNG.NEXT]()**
+**[Samsung NEXT](https://www.samsungnext.com/)** _May 2020 – Nov 2020 (7 mos)_
 
-**[Yandex LLC]()**
+**[Yandex](https://yandex.com/)** _Jun 2017 – Sep 2019 (2 yrs 4 mos)_
 
-**[Sovkombank]()**
+**[Icons8](https://icons8.com)** _Oct 2016 – Mar 2017 (6 mos)_
 
-**[Icons8]()**
+**[Sovcombank](https://sovcombank.com/en/about/info)** _Aug 2015 – Oct 2016 (1 yr 3 mos)_
 
 
+### Technical writer
+
++ [State manager of dream](https://dev.to/betula/state-manager-of-dream-5766-temp-slug-158417?preview=4b030f68851211fd02704f12d7742ce193a8f9c893afd1e4249b88023e14d57b1e5a8a02c4aaa924f22beb44c69bba20617a0523e952120eb97ef344)
++ [Sharing React hooks stateful logic between components](https://dev.to/betula/sharing-react-hooks-stateful-logic-between-components-1g3o)
++ [Reuse React hooks in state sharing](https://dev.to/betula/reuse-react-hooks-in-state-sharing-1ell)
++ [664 Bytes reactivity](https://dev.to/betula/reactive-box-1hm5)
