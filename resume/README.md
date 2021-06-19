@@ -29,7 +29,7 @@ Software developer and Open Source enthusiast
 - React, Redux (+eco), Mobx
 - Node.js (+express eco), NestJS
 - React native
-- Webpack (+eco) with custom plugin development experience
+- Webpack (+eco) with [custom plugin development experience](https://github.com/betula/babel-plugin-jsx-wrapper)
 - Cascading style sheets preprocessing
 - The logic and view unit testing with Jest, and similar
 - MongoDB, MySQL, PostgreSQL
@@ -50,14 +50,24 @@ Software developer and Open Source enthusiast
 
 - Founder, software developer, and architector roles.
 - Experience of applying the theory of programming to the most difficult issue in the frontend field.
-- Developed a special code style of javascript for the best delivery with an incredible lightweight bundle result.
+- Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
 - Deep experience with all existing kinds of dependency trackers for the reactive values synchronization.
 
-**[Card of the Day](http://card-of-the-day.com/get-app)** - the React Native mobile app. Combination of spiritual and technology knowledge.
+**[Card of the Day](http://card-of-the-day.com/get-app)** - the React Native mobile app. Combination of spiritual and technology knowledgies.
 
 - Co-Founder, software developer, and architector roles.
-- Develop the React Native app from an initial commit to the Apple appstore published.
-- Understanding of the Apple purchasing process
-- Experience in native animations, resource caching and analytics integration.
+- Developed the React Native app from the initial commit up to the Apple app store publishing.
+- Understanding of the Apple purchasing process.
+- Experience in native animations, resource caching, and analytics integration.
 
 ### The experience in the big companies teams
+
+**[SAMSUNG.NEXT]()**
+
+**[Yandex LLC]()**
+
+**[Sovkombank]()**
+
+**[Icons8]()**
+
+
