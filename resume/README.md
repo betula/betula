@@ -9,11 +9,34 @@ Software developer and Open Source enthusiast
 
 ## About
 
+I'm a passionate perfect pixel, perfect high-speed code, and result-targeted developer!
+
+I deliver with equal efficiency both solo and in a team. Business and code tasks great decomposer, Agile thinker.
+
+I have more than 12 years of total development experience.
+
+A confident participant in building large-scale web applications with distributed teams (7 years experience).
+
+Big experience in financial apps, social networks, administration panels, and Open Source projects.
+
+- My best job would be to create high-delivery user-oriented products and their architecture both solo or in the team.
+- My dream job would be to contribute to the development of the front-end industry through Open Source.
+
+I'm a Russian traveler who lives in Thailand (or Bali), husband and a father of 7 years old son.
+
+The best payments for me are Upwork direct contract or direct PayPal, Payoneer transfers.
+
+My salary expectations $120k/year.
+
 ## Contacts
+
+I can be available from 2 pm by Melbourne time. The preferred way for communication Zoom video call.
 
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
 + Telegram: [betula17](https://t.me/betula17)
 + Linkedin: [betula](http://linkedin.com/in/betula)
++ Github: [betula](https://github.com/betula)
++ Dev.to: [betula](https://dev.to/betula)
 
 ## Skills
 
@@ -71,3 +94,6 @@ Software developer and Open Source enthusiast
 + [Reuse React hooks in state sharing](https://dev.to/betula/reuse-react-hooks-in-state-sharing-1ell)
 + [664 Bytes reactivity](https://dev.to/betula/reactive-box-1hm5)
 
+Thanks a lot for your time. I will be glad to take part of your team!
+
+Happy growing!
