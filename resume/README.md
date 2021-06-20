@@ -64,9 +64,10 @@ Software developer and Open Source enthusiast
 **[Sovcombank](https://sovcombank.com/en/about/info)** _Aug 2015 – Oct 2016 (1 yr 3 mos)_
 
 
-### Technical writer
+## Technical writer
 
 + [State manager of dream](https://dev.to/betula/state-manager-of-dream-5766-temp-slug-158417?preview=4b030f68851211fd02704f12d7742ce193a8f9c893afd1e4249b88023e14d57b1e5a8a02c4aaa924f22beb44c69bba20617a0523e952120eb97ef344)
 + [Sharing React hooks stateful logic between components](https://dev.to/betula/sharing-react-hooks-stateful-logic-between-components-1g3o)
 + [Reuse React hooks in state sharing](https://dev.to/betula/reuse-react-hooks-in-state-sharing-1ell)
 + [664 Bytes reactivity](https://dev.to/betula/reactive-box-1hm5)
+
