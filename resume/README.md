@@ -17,12 +17,12 @@ I have more than 12 years of total development experience.
 
 A confident participant in building large-scale web applications with distributed teams (7 years experience).
 
-Big experience in financial apps, social networks, administration panels, and Open Source projects.
+Expert in financial apps, social networks, administration panels, and Open Source projects.
 
 - My best job would be to create high-delivery user-oriented products and their architecture both solo or in the team.
 - My dream job would be to contribute to the development of the front-end industry through Open Source.
 
-I'm a Russian traveler who lives in Thailand (or Bali), husband and a father of 7 years old son.
+I'm a Russian traveler who lives in Thailand (and Indonesia), husband and a father of 7 years old son.
 
 The best payments for me are Upwork direct contract or direct PayPal, Payoneer transfers.
 
