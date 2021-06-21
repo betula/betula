@@ -82,6 +82,10 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 
 **[Yandex](https://yandex.com/)** _Jun 2017 – Sep 2019 (2 yrs 4 mos)_
 
+- Develop UI of the Yandex mail, and frontend-server for It
+- Develop UI of the Yandex corporative calendar
+- Develop UI of internal mailing subscribe service
+
 **[Icons8](https://icons8.com)** _Oct 2016 – Mar 2017 (6 mos)_
 
 **[Sovcombank](https://sovcombank.com/en/about/info)** _Aug 2015 – Oct 2016 (1 yr 3 mos)_
