@@ -1,7 +1,7 @@
 <div align="center">
 
 # Slava Birch
-Software developer and Open Source enthusiast
+Software developer and Architector
 
 <img src="./photo.jpg" width="100%" />
 
@@ -18,8 +18,8 @@ I have more than 12 years of total development experience.
 A confident participant in building large-scale web applications with distributed teams (7 years experience).
 
 Expert in financial apps, social networks, administration panels, and Open Source projects.
-
-- My best job would be to create high-delivery user-oriented products and their architecture both solo or in the team.
+- My perfect job: write the react native app for mobile phones for your business (with server for it) solo or as architector of a codebase in the team.
+- My good job would be to create high-delivery user-oriented products and their architecture both solo or in the team.
 - My dream job would be to contribute to the development of the front-end industry through Open Source.
 
 I'm a Russian traveler who lives in Thailand (and Indonesia), husband and a father of 7 years old son.
@@ -33,10 +33,10 @@ My salary expectations $120k/year.
 I can be available from 2 pm by Melbourne time. The preferred way for communication Zoom video call.
 
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
-+ Telegram: [betula17](https://t.me/betula17)
-+ Linkedin: [betula](http://linkedin.com/in/betula)
-+ Github: [betula](https://github.com/betula)
-+ Dev.to: [betula](https://dev.to/betula)
++ Telegram: [t.me/betula17](https://t.me/betula17)
++ Linkedin: [linkedin.com/in/betula](http://linkedin.com/in/betula)
++ Github: [github.com/betula](https://github.com/betula)
++ Dev.to: [dev.to/betula](https://dev.to/betula)
 
 ## Skills
 
@@ -47,7 +47,7 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 - Kanban and Scrum methodologies
 - Open Source evangelist
 
-### Fullstack expertise
+### Full-stack expertise
 
 - React, Mobx, Redux (+eco)
 - Node.js (+express eco), NestJS
@@ -55,7 +55,7 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 - Webpack (+eco) with [custom plugin development experience](https://github.com/betula/babel-plugin-jsx-wrapper)
 - Cascading style sheets preprocessing
 - The logic and view unit testing with Jest, and similar
-- MongoDB, MySQL, PostgreSQL
+- MongoDB, MySQL, Postgres
 - WebAssembly
 
 ## Experience
@@ -78,17 +78,24 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 
 ### The experience in the big companies teams
 
-**[Samsung NEXT](https://www.samsungnext.com/)** _May 2020 – Nov 2020 (7 mos)_
+**[Samsung NEXT](https://www.samsungnext.com/)** - **full-stack developer** - _May 2020 – Nov 2020 (7 mos)_
 
-**[Yandex](https://yandex.com/)** _Jun 2017 – Sep 2019 (2 yrs 4 mos)_
+- Developed the user management interface for partners api. ([studio.whisk.com](https://studio.whisk.com)). The partner API access keys credentials, licenses, user permissions and customer companies management. As participant of distributed 5 members agile team with Jira tasks desk.
+- Active architecture consultant and enthusiast, tech talks participant.
+- Mulipurpose supporter of big set of independent internal projects on most of existents technology stacks for full-stack development. There are Redux, Mobx, NestJS, Postgres, Styled Components, and etc.
+- Pixel perfect ui master with Figma.
+- Friendly team-member and conscious pull request reviewer.
 
-- Develop UI of the Yandex mail, and frontend-server for It
-- Develop UI of the Yandex corporative calendar
-- Develop UI of internal mailing subscribe service
 
-**[Icons8](https://icons8.com)** _Oct 2016 – Mar 2017 (6 mos)_
+**[Yandex](https://mail.yandex.com/)** - **full-stack developer** - _Jun 2017 – Sep 2019 (2 yrs 4 mos)_
 
-**[Sovcombank](https://sovcombank.com/en/about/info)** _Aug 2015 – Oct 2016 (1 yr 3 mos)_
+- Integrated ad blocker (adblock, ect.)  bypass system into user mail interface. Increased ad unit revenue by 15%.
+- Active consultant on the architecture of the mailing service.
+- Agile tasks implementer for VanillaJS based user mail interface, and Redux based ui interface of internal user calendar service with NodeJS frontend server.
+
+**[Icons8](https://icons8.com)** - **full-stack developer and architector** - _Oct 2016 – Mar 2017 (6 mos)_
+
+**[Sovcombank](https://sovcombank.com/en/about/info)** - **frontend developer and team-lead** - _Aug 2015 – Oct 2016 (1 yr 3 mos)_
 
 
 ## Technical writer
