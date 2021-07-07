@@ -30,7 +30,7 @@ My salary expectations $120k/year.
 
 ## Contacts
 
-I can be in touch from 10:00 to 18:00 by GMT+7 (from 13:00 to 21:00 by Melbourne time, from 6:00 to 14:00 by Moscow time, from 4:00 to 12:00 by London time) ([thetimezoneconverter.com](https://www.thetimezoneconverter.com/)). The preferred way for communication Zoom video call.
+I can be in touch from 10:00 to 18:00 by GMT+7 (from 13:00 to 21:00 by Melbourne time, from 6:00 to 14:00 by Moscow time, from 4:00 to 12:00 by London time). The preferred way for communication Zoom video call.
 
 + E-mail: [mail@betula.co](mailto:mail@betula.co)
 + Telegram: [t.me/betula17](https://t.me/betula17)
