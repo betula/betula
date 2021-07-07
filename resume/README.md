@@ -95,16 +95,16 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 
 **[Icons8](https://icons8.com)** - **full-stack developer and architector** - _Jan 2015 - Aug 2015, Oct 2016 – Mar 2017 (1 yr)_
 
-- Researched task of optimization creation HTML snapshots for SPA on AngularJS.
-- Developed service for creating HTML snapshots for AngularJS application and decideed the task of SEO for the SPA AngularJS application. Descreased page generation time from 2s on [prerender.io](https://prerender.io) to increadible 200ms.
+- Developed a service for support Server Side Rendering on AngularJS applications.
+- Descreased page generation time from 2s on [prerender.io](https://prerender.io) to increadible 200ms for Serach Engines.
 - Developed several Open Source projects for work with SVG, transform, convert, with support SVG Fonts and SVG Sets. ([welovesvg](https://icons8.com/welovesvg), [svg-caster](https://github.com/icons8/svg-caster), etc.)
-- Realized a modular structure of the project codebase with applications inheritance.
+- Realized a modular structure of the codebase.
 
 
 **[Sovcombank](https://sovcombank.com/en/about/info)** - **frontend developer and team-lead** - _Aug 2015 – Oct 2016 (1 yr 3 mos)_
 
 - Leading of the team with five developers.
-- Controlling, training, decomposition both by a code and a business tasks (forecasts, risks, planning, etc.). Communication with the product owner, product manager, backend and data lead.
+- Controlling, training, decomposition both by code and business tasks (forecasts, risks, planning, etc.). Communication with the product owner, product manager, backend and data lead.
 - Interviewing with new candidates.
 - Developed a custom data changing tracking system specific to the project data for easy and iterative migration of an application codebase from AngularJS to React.
 - Use a SOLID as a basic and priority principle for application code architecture.
