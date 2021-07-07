@@ -88,8 +88,8 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 
 **[Yandex](https://yandex.com/)** - **full-stack developer** - _Jun 2017 – Sep 2019 (2 yrs 4 mos)_
 
-- Integrated ad blocker (adblock, ect.)  bypass system into [user mail interface](https://mail.yandex.com/). Increased ad unit revenue by 15%.
-- Active consultant on the architecture of the mailing service.
+- Integrated ad blocker (adblock, ect.)  bypass system into user mail interface ([mail.yandex.com](https://mail.yandex.com/)). Increased ad unit revenue by 15%.
+- Active consultant on the architecture of the internal mailing service.
 - Agile tasks implementer for VanillaJS based user mail interface, and Redux based ui interface of internal user calendar service with NodeJS frontend server.
 
 **[Icons8](https://icons8.com)** - **full-stack developer and architector** - _Oct 2016 – Mar 2017 (6 mos)_
