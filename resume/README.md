@@ -121,3 +121,5 @@ _A more detailed history of my professional experience is described in the Linke
 Thanks a lot for your time. I will be glad to take part of your team!
 
 Happy growing!
+
+[Download PDF](./Slava_Birch_resume.pdf)
