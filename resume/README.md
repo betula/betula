@@ -82,6 +82,7 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 - Developed the user management interface for partners api. ([studio.whisk.com](https://studio.whisk.com)). The partner API access keys credentials, licenses, user permissions and customer companies management. As participant of distributed 5 members agile team with Jira tasks desk.
 - Active architecture consultant and enthusiast, tech talks participant.
 - Mulipurpose supporter of big set of independent internal projects on most of existents technology stacks for full-stack development. There are Redux, Mobx, NestJS, Postgres, Styled Components, and etc.
+- The effective unit tests writer.
 - Pixel perfect ui master with Figma.
 - Friendly team-member and conscious pull request reviewer.
 
@@ -92,9 +93,24 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 - Active consultant on the architecture of the internal mailing service.
 - Agile tasks implementer for VanillaJS based user mail interface, and Redux based ui interface of internal user calendar service with NodeJS frontend server.
 
-**[Icons8](https://icons8.com)** - **full-stack developer and architector** - _Oct 2016 – Mar 2017 (6 mos)_
+**[Icons8](https://icons8.com)** - **full-stack developer and architector** - _Jan 2015 - Aug 2015, Oct 2016 – Mar 2017 (1 yr)_
+
+- Researched task of optimization creation HTML snapshots for SPA on AngularJS
+- Developed service for creating HTML snapshots for AngularJS application and decideed the task of SEO for the SPA AngularJS application. Descreased page generation time from 2s on [prerender.io](https://prerender.io) to increadible 200ms.
+- Developed several Open Source projects for work with SVG, transform, convert, with support SVG Fonts and SVG Sets. ([welovesvg](https://icons8.com/welovesvg), [svg-caster](https://github.com/icons8/svg-caster), etc.)
+- Realized a modular structure of the project codebase with applications inheritance.
+
 
 **[Sovcombank](https://sovcombank.com/en/about/info)** - **frontend developer and team-lead** - _Aug 2015 – Oct 2016 (1 yr 3 mos)_
+
+- Leading of team with three developers, with middle and senior levels
+- Interviewing works with candidates CVs
+- Communication with the product owner, product manager, backend, and data lead
+- Communication and building a format for interacting with external commands, creating an interface for sharing code (modules, libraries, etc.) and business processes.
+- Control, training, decomposition both by code and by business tasks (forecasts, risks, planning, etc.)
+- Developed a data change tracking system specific to the project data and other infrastructure for easy and iterative migration of an application codebase from AngularJS to React.
+- Maintaining modularity and completeness and “non-redundancy” of interfaces between modules.
+- Use a SOLID as a basic and priority principle for application code architecture.
 
 _A more detailed history of my professional experience is described in the Linkedin profile page ([linkedin.com/in/betula](http://linkedin.com/in/betula))._
 
