@@ -18,7 +18,7 @@ I have more than 12 years of total development experience.
 A confident participant in building large-scale web applications with distributed teams (7 years experience).
 
 Expert in financial apps, social networks, administration panels, and Open Source projects.
-- My perfect job: write the react native app for mobile phones for your business (with server for it) solo or as architector of a codebase in the team.
+- My perfect job would be to write the react native app for mobile phones for your business (with server for it) solo or as architector of a codebase in the team.
 - My good job would be to create high-delivery user-oriented products and their architecture both solo or in the team.
 - My dream job would be to contribute to the development of the front-end industry through Open Source.
 
@@ -37,6 +37,7 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 + Linkedin: [linkedin.com/in/betula](http://linkedin.com/in/betula)
 + Github: [github.com/betula](https://github.com/betula)
 + Dev.to: [dev.to/betula](https://dev.to/betula)
++ Resume: [resume.betula.co](http://resume.betula.co)
 
 ## Skills
 
@@ -62,16 +63,14 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 
 ### The most valuable last experience
 
-**[Realar advanced state manager](https://github.com/betula/realar#readme)** - the progressive Open Source library that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
+**[Realar advanced state manager](https://github.com/betula/realar#readme)** - **Founder, software developer, and architector roles** - the progressive Open Source library that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
 
-- Founder, software developer, and architector roles.
 - Experience of applying the theory of programming to the most difficult issue in the frontend field.
 - Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
 - Deep experience with all existing kinds of dependency trackers for the reactive values synchronization.
 
-**[Card of the Day](http://card-of-the-day.com/get-app)** - the React Native mobile app. Combination of spiritual and technology knowledgies.
+**[Card of the Day](http://card-of-the-day.com/get-app)** - **Co-Founder, software developer, and architector roles** - the React Native mobile app. Combination of spiritual and technology knowledgies.
 
-- Co-Founder, software developer, and architector roles.
 - Developed the React Native app from the initial commit up to the Apple app store publishing.
 - Understanding of the Apple purchasing process.
 - Experience in native animations, resources caching, and analytics integration.
@@ -87,9 +86,9 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 - Friendly team-member and conscious pull request reviewer.
 
 
-**[Yandex](https://mail.yandex.com/)** - **full-stack developer** - _Jun 2017 – Sep 2019 (2 yrs 4 mos)_
+**[Yandex](https://yandex.com/)** - **full-stack developer** - _Jun 2017 – Sep 2019 (2 yrs 4 mos)_
 
-- Integrated ad blocker (adblock, ect.)  bypass system into user mail interface. Increased ad unit revenue by 15%.
+- Integrated ad blocker (adblock, ect.)  bypass system into [user mail interface](https://mail.yandex.com/). Increased ad unit revenue by 15%.
 - Active consultant on the architecture of the mailing service.
 - Agile tasks implementer for VanillaJS based user mail interface, and Redux based ui interface of internal user calendar service with NodeJS frontend server.
 
@@ -97,6 +96,7 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 
 **[Sovcombank](https://sovcombank.com/en/about/info)** - **frontend developer and team-lead** - _Aug 2015 – Oct 2016 (1 yr 3 mos)_
 
+_A more detailed history of my professional experience is described in the Linkedin profile page ([linkedin.com/in/betula](http://linkedin.com/in/betula))._
 
 ## Technical writer
 
