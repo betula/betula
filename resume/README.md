@@ -65,7 +65,7 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 
 **[Realar advanced state manager](https://github.com/betula/realar#readme)** - **Founder, software developer, and architector roles** - the progressive Open Source library that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
 
-- Experience of applying the theory of programming to the most difficult issue in the frontend field.
+- Experience in applying the theory of programming to the most difficult issue in the frontend field.
 - Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
 - Deep experience with all existing kinds of dependency trackers for the reactive values synchronization.
 
@@ -79,11 +79,11 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 
 **[Samsung NEXT](https://www.samsungnext.com/)** - **full-stack developer** - _May 2020 – Nov 2020 (7 mos)_
 
-- Developed the user management interface for partners api. ([studio.whisk.com](https://studio.whisk.com)). The partner API access keys credentials, licenses, user permissions and customer companies management. As participant of distributed 5 members agile team with Jira tasks desk.
+- Developed the user management interface for partners API. ([studio.whisk.com](https://studio.whisk.com)). The partner API access keys credentials, licenses, user permissions, and customer companies management. As a participant of distributed 7 members agile team with Jira tasks desk.
 - Active architecture consultant and enthusiast, tech talks participant.
-- Mulipurpose supporter of big set of independent internal projects on most of existents technology stacks for full-stack development. There are Redux, Mobx, NestJS, Postgres, Styled Components, and etc.
+- Multipurpose supporter of a big set of independent internal projects on most of existents technology stacks for full-stack development. There are Redux, Mobx, NestJS, Postgres, Styled Components, and etc.
 - The effective unit tests writer.
-- Pixel perfect ui master with Figma.
+- Pixel perfect UI master with Figma.
 - Friendly team-member and conscious pull request reviewer.
 
 
@@ -91,12 +91,12 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 
 - Integrated ad blocker (adblock, ect.)  bypass system into user mail interface ([mail.yandex.com](https://mail.yandex.com/)). Increased ad unit revenue by 15%.
 - Active consultant on the architecture of the internal mailing service.
-- Agile tasks implementer for VanillaJS based user mail interface, and Redux based ui interface of internal user calendar service with NodeJS frontend server.
+- Agile tasks implementer for VanillaJS based user mail interface, and Redux based UI interface of internal user calendar service with NodeJS frontend server.
 
 **[Icons8](https://icons8.com)** - **full-stack developer and architector** - _Jan 2015 - Aug 2015, Oct 2016 – Mar 2017 (1 yr)_
 
 - Developed a Node.js service for support Server Side Rendering on AngularJS applications.
-- Descreased page generation time from 2s on [prerender.io](https://prerender.io) to increadible 200ms for Search Engines.
+- Decreased page generation time from 2s on [prerender.io](https://prerender.io) to incredible 200ms for Search Engines.
 - Developed several Open Source projects for work with SVG, transform, convert, with support SVG Fonts and SVG Sets. ([welovesvg](https://icons8.com/welovesvg), [svg-caster](https://github.com/icons8/svg-caster), etc.)
 - Realized a modular structure of the codebase.
 
