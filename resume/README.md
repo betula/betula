@@ -105,7 +105,7 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 
 - Leading of the team with five developers.
 - Controlling, training, decomposition both by a code and a business tasks (forecasts, risks, planning, etc.). Communication with the product owner, product manager, backend and data lead.
-- Interviewing with candidates CVs.
+- Interviewing with new candidates.
 - Developed a custom data changing tracking system specific to the project data for easy and iterative migration of an application codebase from AngularJS to React.
 - Use a SOLID as a basic and priority principle for application code architecture.
 
