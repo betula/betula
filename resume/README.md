@@ -107,7 +107,7 @@ I can be available from 2 pm by Melbourne time. The preferred way for communicat
 - Controlling, training, decomposition both by code and business tasks (forecasts, risks, planning, etc.). Communication with the product owner, product manager, backend and data lead.
 - Interviewing with new candidates.
 - Developed a custom data changing tracking system specific to the project data for easy and iterative migration of an application codebase from AngularJS to React.
-- Use a SOLID as a basic and priority principle for application code architecture.
+- Use a SOLID as a basic and priority principle for an application code architecture.
 
 _A more detailed history of my professional experience is described in the Linkedin profile page ([linkedin.com/in/betula](http://linkedin.com/in/betula))._
 
