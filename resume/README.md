@@ -1,9 +1,9 @@
 <div align="center">
 
 # Slava Birch
-Software developer and Architector
+Senior Full-Stack and Architector
 
-<img src="./photo.jpg" width="100%" />
+[<img src="./photo.jpg" width="100%" />](http://resume.betula.co)
 
 </div>
 
@@ -28,16 +28,6 @@ The best payments for me are Upwork direct contract or direct PayPal, Payoneer t
 
 My salary expectations $120k/year.
 
-## Contacts
-
-I can be in touch from 10:00 to 18:00 by GMT+7 (from 13:00 to 21:00 by Melbourne time, from 6:00 to 14:00 by Moscow time, from 4:00 to 12:00 by London time). The preferred way for communication Zoom video call.
-
-+ E-mail: [mail@betula.co](mailto:mail@betula.co)
-+ Telegram: [t.me/betula17](https://t.me/betula17)
-+ Linkedin: [linkedin.com/in/betula](http://linkedin.com/in/betula)
-+ Github: [github.com/betula](https://github.com/betula)
-+ Dev.to: [dev.to/betula](https://dev.to/betula)
-+ Resume: [resume.betula.co](http://resume.betula.co)
 
 ## Skills
 
@@ -58,6 +48,17 @@ I can be in touch from 10:00 to 18:00 by GMT+7 (from 13:00 to 21:00 by Melbourne
 - The logic and view unit testing with Jest, and similar
 - MongoDB, MySQL, Postgres
 - WebAssembly
+
+## Contacts
+
+I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for communication Zoom video call.
+
++ E-mail: [mail@betula.co](mailto:mail@betula.co)
++ Telegram: [t.me/betula17](https://t.me/betula17)
++ Linkedin: [linkedin.com/in/betula](http://linkedin.com/in/betula)
++ Github: [github.com/betula](https://github.com/betula)
++ Dev.to: [dev.to/betula](https://dev.to/betula)
++ Resume: [resume.betula.co](http://resume.betula.co)
 
 ## Experience
 
