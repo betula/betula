@@ -59,6 +59,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 + Github: [github.com/betula](https://github.com/betula)
 + Dev.to: [dev.to/betula](https://dev.to/betula)
 + Resume: [resume.betula.co](http://resume.betula.co)
++ Resume PDF: [resume-pdf.betula.co](http://resume-pdf.betula.co)
 
 ## Experience
 
