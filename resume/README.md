@@ -42,7 +42,7 @@ My salary expectations $120k/year.
 
 - React, Mobx, Redux (+eco)
 - Node.js (+express eco), NestJS
-- React native
+- React Native
 - Webpack (+eco) with [custom plugin development experience](https://github.com/betula/babel-plugin-jsx-wrapper)
 - Cascading style sheets preprocessing
 - The logic and view unit testing with Jest, and similar
