@@ -65,7 +65,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 
 ### The most valuable last experience
 
-**[Realar advanced state manager](https://github.com/betula/realar#readme)** - **Founder, software developer, and architector roles** - the progressive Open Source library that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
+**[Realar advanced state manager](https://github.com/betula/realar#readme)** - **Founder, software developer, and architector roles** - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
 
 - Experience in applying the theory of programming to the most difficult issue in the frontend field.
 - Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
