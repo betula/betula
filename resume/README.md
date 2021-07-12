@@ -1,7 +1,7 @@
 <div align="center">
 
 # Slava Birch
-Senior Full-Stack and Architector
+Senior Full-Stack and Software Architect
 
 [<img src="./photo.jpg" width="100%" />](http://resume.betula.co)
 
@@ -18,7 +18,7 @@ I have more than 12 years of total development experience.
 A confident participant in building large-scale web applications with distributed teams (7 years experience).
 
 Expert in financial apps, social networks, administration panels, and Open Source projects.
-- My perfect job would be to write the react native app for mobile phones for your business (with server for it) solo or as architector of a codebase in the team.
+- My perfect job would be to write the react native app for mobile phones for your business (with server for it) solo or as architect of a codebase in the team.
 - My good job would be to create high-delivery user-oriented products and their architecture both solo or in the team.
 - My dream job would be to contribute to the development of the front-end industry through Open Source.
 
@@ -65,17 +65,21 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 
 ### The most valuable last experience
 
-**[Realar advanced state manager](https://github.com/betula/realar#readme)** - **Founder, software developer, and architector roles** - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
+**[Realar advanced state manager](https://github.com/betula/realar#readme)** - **Founder, software developer, and architect roles** - _April 2020 – Jul 2021 (1 yr 2 mos)_ - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
 
 - Experience in applying the theory of programming to the most difficult issue in the frontend field.
 - Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
 - Deep experience with all existing kinds of dependency trackers for the reactive values synchronization.
 
-**[Card of the Day](http://card-of-the-day.com/get-app)** - **Co-Founder, software developer, and architector roles** - the React Native mobile app. Combination of spiritual and technology knowledgies.
+<sub>React, Typescript, Npm packages publishing, Webpack, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sub>
+
+**[Card of the Day](http://card-of-the-day.com/get-app)** - **Co-Founder, software developer, and architect roles** - _Nov 2020 – Jul 2021 (8 mos)_ - the React Native mobile app. Combination of spiritual and technology knowledgies.
 
 - Developed the React Native app from the initial commit up to the Apple app store publishing.
 - Understanding of the Apple purchasing process.
 - Experience in native animations, resources caching, and analytics integration.
+
+<sub>React, React Native, Realar, Native animations, XCode, App Store purchases, RevenueCat, Custom Swipe.</sub>
 
 ### The experience in the big companies teams
 
@@ -95,7 +99,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 - Active consultant on the architecture of the internal mailing service.
 - Agile tasks implementer for VanillaJS based user mail interface, and Redux based UI interface of internal user calendar service with NodeJS frontend server.
 
-**[Icons8](https://icons8.com)** - **full-stack developer and architector** - _Jan 2015 - Aug 2015, Oct 2016 – Mar 2017 (1 yr)_
+**[Icons8](https://icons8.com)** - **full-stack developer and architect** - _Jan 2015 - Aug 2015, Oct 2016 – Mar 2017 (1 yr)_
 
 - Developed a Node.js service for support Server Side Rendering on AngularJS applications.
 - Decreased page generation time from 2s on [prerender.io](https://prerender.io) to incredible 200ms for Search Engines.
