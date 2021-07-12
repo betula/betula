@@ -134,4 +134,4 @@ Thanks a lot for your time. I will be glad to take part of your team!
 
 Happy growing!
 
-[Download PDF](https://github.com/betula/betula/raw/master/resume/Slava_Birch_resume.pdf)
+[Download PDF](http://resume-pdf.betula.co)
