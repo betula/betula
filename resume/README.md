@@ -100,7 +100,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 - Active consultant on the architecture of the internal mailing service.
 - Agile tasks implementer for VanillaJS based user mail interface, and Redux based UI interface of internal user calendar service with NodeJS frontend server.
 
-<sup>React, Javascript, Redux, Redux-Saga, Reselect, Recompose, BEM, Mobx, Slack, Jira, Node.JS, Express, Mirco-Services architecture, CSS Modules, Profiling, Jest</sup>
+<sup>React, Javascript, Redux, Redux-Saga, Reselect, Recompose, BEM, Mobx, Slack, Jira, Node.JS, Express, Mirco-Services architecture, CSS Modules, Profiling, Jest.</sup>
 
 **[Icons8](https://icons8.com)** - **senior full-stack engineer and architect** - _Jan 2015 - Aug 2015, Oct 2016 – Mar 2017 (1 yr)_
 
@@ -109,7 +109,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 - Developed several Open Source projects for work with SVG, transform, convert, with support SVG Fonts and SVG Sets. ([welovesvg](https://icons8.com/welovesvg), [svg-caster](https://github.com/icons8/svg-caster), etc.)
 - Realized a modular structure of the codebase.
 
-<sup>Angular, Javascript, Slack, Jira, Node.JS, Express, SVG, Atom/Electron, Server-Side Rendering, Custom libraries development, MySQL, Karma, Jasmine, Mocha, Should, SCSS</sup>
+<sup>Angular, Javascript, Slack, Jira, Node.JS, Express, SVG, Atom/Electron, Server-Side Rendering, Custom libraries development, MySQL, Karma, Jasmine, Mocha, Should, SCSS.</sup>
 
 **[Sovcombank](https://sovcombank.com/en/about/info)** - **senior frontend engineer and team-lead** - _Aug 2015 – Oct 2016 (1 yr 3 mos)_
 
@@ -119,7 +119,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 - Developed a custom data changing tracking system specific to the project data for easy and iterative migration of an application codebase from AngularJS to React.
 - Use a SOLID as a basic and priority principle for an application code architecture.
 
-<sup>Angular, Javascript, Slack, Jira, D3, Custom libraries development</sup>
+<sup>Angular, Javascript, Slack, Jira, D3, Custom libraries development.</sup>
 
 **See more professional experience on the Linkedin profile page ([linkedin.com/in/betula](http://linkedin.com/in/betula)).**
 
