@@ -71,7 +71,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 - Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
 - Deep experience with all existing kinds of dependency trackers for the reactive values synchronization.
 
-<sup>React, Typescript, Npm packages publishing, Webpack, Jest, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sup>
+<sup>React, Typescript, Npm packages publishing, Webpack, Jest, Node.JS, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sup>
 
 **[Card of the Day](http://card-of-the-day.com/get-app)** - **Co-Founder, principal software engineer, and architect roles** - _Nov 2020 – Jul 2021 (8 mos)_ - the React Native mobile app. Combination of spiritual and technology knowledgies.
 
