@@ -71,7 +71,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 - Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
 - Deep experience with all existing kinds of dependency trackers for the reactive values synchronization.
 
-<sub>React, Typescript, Npm packages publishing, Webpack, Jest, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sub>
+<sup>React, Typescript, Npm packages publishing, Webpack, Jest, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sup>
 
 **[Card of the Day](http://card-of-the-day.com/get-app)** - **Co-Founder, principal software engineer, and architect roles** - _Nov 2020 – Jul 2021 (8 mos)_ - the React Native mobile app. Combination of spiritual and technology knowledgies.
 
@@ -79,7 +79,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 - Understanding of the Apple purchasing process.
 - Experience in native animations, resources caching, and analytics integration.
 
-<sub>React, Typescript, React Native, Realar, Native animations, XCode, App Store purchases, RevenueCat, Custom Swipe programming, Node.JS, Express, Webpack, Server-Side Rendering.</sub>
+<sup>React, Typescript, React Native, Realar, Native animations, XCode, App Store purchases, RevenueCat, Custom Swipe programming, Node.JS, Express, Webpack, Server-Side Rendering.</sup>
 
 ### The experience in the big companies teams
 
@@ -92,7 +92,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 - Pixel perfect UI master with Figma.
 - Friendly team-member and conscious pull request reviewer.
 
-<sub>React, Typescript, Mobx, Redux, Slack, Jira, Mirco-Services architecture, Node.JS, NestJS, Postgres, Styled Components, CSS Modules, Lerna, Docker, Jest.</sub>
+<sup>React, Typescript, Mobx, Redux, Slack, Jira, Mirco-Services architecture, Node.JS, NestJS, Postgres, Styled Components, CSS Modules, Lerna, Docker, Jest.</sup>
 
 **[Yandex](https://yandex.com/)** - **senior full-stack engineer** - _Jun 2017 – Sep 2019 (2 yrs 4 mos)_
 
@@ -100,7 +100,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 - Active consultant on the architecture of the internal mailing service.
 - Agile tasks implementer for VanillaJS based user mail interface, and Redux based UI interface of internal user calendar service with NodeJS frontend server.
 
-<sub>React, Javascript, Redux, Redux-Saga, Reselect, Recompose, BEM, Mobx, Slack, Jira, Node.JS, Express, Mirco-Services architecture, CSS Modules, Profiling, Jest</sub>
+<sup>React, Javascript, Redux, Redux-Saga, Reselect, Recompose, BEM, Mobx, Slack, Jira, Node.JS, Express, Mirco-Services architecture, CSS Modules, Profiling, Jest</sup>
 
 **[Icons8](https://icons8.com)** - **senior full-stack engineer and architect** - _Jan 2015 - Aug 2015, Oct 2016 – Mar 2017 (1 yr)_
 
@@ -109,7 +109,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 - Developed several Open Source projects for work with SVG, transform, convert, with support SVG Fonts and SVG Sets. ([welovesvg](https://icons8.com/welovesvg), [svg-caster](https://github.com/icons8/svg-caster), etc.)
 - Realized a modular structure of the codebase.
 
-<sub>Angular, Javascript, Slack, Jira, Node.JS, Express, SVG, Atom/Electron, Server-Side Rendering, Custom libraries development, MySQL, Karma, Jasmine, Mocha, Should, SCSS</sub>
+<sup>Angular, Javascript, Slack, Jira, Node.JS, Express, SVG, Atom/Electron, Server-Side Rendering, Custom libraries development, MySQL, Karma, Jasmine, Mocha, Should, SCSS</sup>
 
 **[Sovcombank](https://sovcombank.com/en/about/info)** - **senior frontend engineer and team-lead** - _Aug 2015 – Oct 2016 (1 yr 3 mos)_
 
@@ -119,7 +119,7 @@ I can be in touch from 13:00 to 21:00 by Melbourne time. The preferred way for c
 - Developed a custom data changing tracking system specific to the project data for easy and iterative migration of an application codebase from AngularJS to React.
 - Use a SOLID as a basic and priority principle for an application code architecture.
 
-<sub>Angular, Javascript, Slack, Jira, D3, Custom libraries development</sub>
+<sup>Angular, Javascript, Slack, Jira, D3, Custom libraries development</sup>
 
 **See more professional experience on the Linkedin profile page ([linkedin.com/in/betula](http://linkedin.com/in/betula)).**
 
