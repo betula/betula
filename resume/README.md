@@ -44,7 +44,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 
 **[Samsung NEXT](https://www.samsungnext.com/)** - **senior full-stack engineer** - (remote) - _2020 (7 mos)_
 
-- Developed the user management interface for partners API. ([studio.whisk.com](https://studio.whisk.com)). The partner API access keys credentials, licenses, user permissions, and customer companies management. As a guiding participant of distributed 7 members agile team with Jira tasks desk.
+- Developed the user management interface for partners API. ([studio.whisk.com](https://studio.whisk.com)). The partner API access keys credentials, licenses, user permissions, and customer companies management. As a participant of distributed 7 members agile team with Jira tasks desk.
 - Active architecture consultant and enthusiast, tech talks participant.
 - Multipurpose supporter of a big set of independent internal projects on most of existents technology stacks for full-stack development. There are Redux, Mobx, NestJS, Postgres, Styled Components, and etc.
 - The effective unit tests writer.
