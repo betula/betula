@@ -15,7 +15,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 
 ### Work experience
 
-**[Card of the Day](http://card-of-the-day.com/get-app)** - **principal software engineer, and architect roles** - _2020 – 2021 (8 mos)_
+**[Card of the Day](http://card-of-the-day.com/get-app)** - (contract, remote) - **principal software engineer, and architect roles** - _2020 – 2021 (8 mos)_
 
 - Single-handedly developed the React Native app from the initial commit up to the Apple app store publishing.
 - Understanding of the Apple purchasing process.
@@ -23,7 +23,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 
 <sup>React, Typescript, React Native, Realar, Native animations, App Store purchases, Node.JS, Express, Webpack, SSR.</sup>
 
-**[Samsung NEXT](https://www.samsungnext.com/)** - **senior full-stack engineer** - _2020 (7 mos)_
+**[Samsung NEXT](https://www.samsungnext.com/)** - (remote) - **senior full-stack engineer** - _2020 (7 mos)_
 
 - Developed the user management interface for partners API. ([studio.whisk.com](https://studio.whisk.com)). The partner API access keys credentials, licenses, user permissions, and customer companies management. As a guiding participant of distributed 7 members agile team with Jira tasks desk.
 - Active architecture consultant and enthusiast, tech talks participant.
@@ -42,7 +42,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 
 <sup>React, Javascript, Redux, Redux-Saga, Reselect, Recompose, BEM, Mobx, Slack, Jira, Node.JS, Express, Mirco-Services architecture, CSS Modules, Profiling, Jest.</sup>
 
-**[Icons8](https://icons8.com)** - **senior full-stack engineer and architect** - _2016 – 2017 (1 yr)_
+**[Icons8](https://icons8.com)** - (remote) - **senior full-stack engineer and architect** - _2016 – 2017 (1 yr)_
 
 - Developed a Node.js service for support Server Side Rendering on AngularJS applications.
 - Decreased page generation time from 2s on [prerender.io](https://prerender.io) to incredible 200ms for Search Engines.
@@ -51,7 +51,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 
 <sup>Javascript, Slack, Jira, Node.JS, Express, SVG, Atom/Electron, Server-Side Rendering, Custom libraries development, MySQL, Karma, Jasmine, Mocha, Should, SCSS.</sup>
 
-**[Sovcombank](https://sovcombank.com/en/about/info)** - **senior frontend engineer and team-lead** - _2015 – 2016 (1 yr 3 mos)_
+**[Sovcombank](https://sovcombank.com/en/about/info)** - (remote) - **senior frontend engineer and team-lead** - _2015 – 2016 (1 yr 3 mos)_
 
 - Leading of the team with 5 developers.
 - Controlling, training, decomposition both by code and business tasks (forecasts, risks, planning, etc.). Communication with the product owner, product manager, backend and data lead.
@@ -62,16 +62,6 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 <sup>Javascript, Slack, Jira, D3, Custom libraries development.</sup>
 
 **See more professional experience on the Linkedin profile page ([linkedin.com/in/betula](http://linkedin.com/in/betula)).**
-
-## Projects
-
-**[Realar advanced state manager](https://github.com/betula/realar#readme)** - _2020 – 2021_ - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
-
-- Experience in applying the theory of programming to the most difficult issue in the frontend field.
-- Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
-- Deep experience with all existing kinds of dependency trackers for the reactive values synchronization.
-
-<sup>React, Typescript, Npm packages publishing, Webpack, Jest, Node.JS, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sup>
 
 ## Skills
 
@@ -95,6 +85,23 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 - Open Source evangelist
 - Remote worker
 
+
+## Open Source
+
+**[Realar advanced state manager](https://github.com/betula/realar#readme)** - _2020 – 2021_ - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
+
+- Experience in applying the theory of programming to the most difficult issue in the frontend field.
+- Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
+- Deep experience with all existing kinds of dependency trackers for the reactive values synchronization.
+
+<sup>React, Typescript, Npm packages publishing, Webpack, Jest, Node.JS, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sup>
+
+**[use-between](https://github.com/betula/realar#readme)** - _2020_ - the easiest way for sharing React state.
+
+- Deep experience in the internal React code kitchen.
+- Developed a full feature state management system through only one React hook.
+
+<sup>React, Typescript, Minimalism</sup>
 
 ## Technical writer
 
