@@ -2,7 +2,7 @@
 
 ## Slava Birch
 
-#### Senior Full-Stack and Software Architect
+### Senior Full-Stack and Software Architect
 
 </div>
 
@@ -12,6 +12,25 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 + Telegram: [t.me/betula17](https://t.me/betula17)
 + Linkedin: [linkedin.com/in/betula](http://linkedin.com/in/betula)
 + Github: [github.com/betula](https://github.com/betula)
+
+
+## Skills
+
+- Typescript, Javascript
+- React, Mobx, Redux (+eco)
+- Node.js (+express eco), NestJS
+- React Native
+- Webpack (+eco) with [custom plugin development experience](https://github.com/betula/babel-plugin-jsx-wrapper)
+- Cascading style sheets preprocessing
+- The logic and view unit testing with Jest, and similar
+- MongoDB, MySQL, Postgres
+- WebAssembly
+- Object-oriented, functional, declarative, and imperative paradigm
+- Experience in distributed systems and modern software architecture
+- Kanban and Scrum methodologies
+- Open Source evangelist
+- Remote worker
+
 
 ### Work experience
 
@@ -63,32 +82,9 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 
 **See more professional experience on the Linkedin profile page ([linkedin.com/in/betula](http://linkedin.com/in/betula)).**
 
-## Skills
-
-### Full-stack expertise
-
-- Typescript, Javascript
-- React, Mobx, Redux (+eco)
-- Node.js (+express eco), NestJS
-- React Native
-- Webpack (+eco) with [custom plugin development experience](https://github.com/betula/babel-plugin-jsx-wrapper)
-- Cascading style sheets preprocessing
-- The logic and view unit testing with Jest, and similar
-- MongoDB, MySQL, Postgres
-- WebAssembly
-
-### Fundamental
-
-- Object-oriented, functional, declarative, and imperative paradigm
-- Experience in distributed systems and modern software architecture
-- Kanban and Scrum methodologies
-- Open Source evangelist
-- Remote worker
-
-
 ## Open Source
 
-**[Realar advanced state manager](https://github.com/betula/realar#readme)** - _2020 – 2021_ - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
+**[Realar advanced state manager](https://github.com/betula/realar#readme)** - (founder) -  _2020 – 2021_ - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
 
 - Experience in applying the theory of programming to the most difficult issue in the frontend field.
 - Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
@@ -96,10 +92,10 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 
 <sup>React, Typescript, Npm packages publishing, Webpack, Jest, Node.JS, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sup>
 
-**[use-between](https://github.com/betula/realar#readme)** - _2020_ - the easiest way for sharing React state.
+**[use-between](https://github.com/betula/realar#readme)** - (founder) - _2020_ - the easiest way for sharing React state.
 
 - Deep experience in the internal React code kitchen.
-- Developed a full feature state management system through only one React hook.
+- Developed a fully functional state management system through just one React hook.
 
 <sup>React, Typescript, Minimalism</sup>
 
