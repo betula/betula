@@ -1,4 +1,4 @@
-Looking for a remote job :star: [resume](https://github.com/betula/betula/tree/master/resume#readme)
+Looking for a remote job :star: [resume](https://github.com/betula/resume/blob/master/README.md#readme)
 
 I’m currently working on [Realar 5kB advanced state manager](https://github.com/betula/realar) for React :+1: and looking for a sponsor!
 
