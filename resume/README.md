@@ -14,24 +14,6 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 + Github: [github.com/betula](https://github.com/betula)
 
 
-### Skills
-
-- Typescript, Javascript
-- React, Mobx, Redux (+eco)
-- Node.js (+express eco), NestJS
-- React Native
-- Webpack (+eco) with [custom plugin development experience](https://github.com/betula/babel-plugin-jsx-wrapper)
-- Cascading style sheets preprocessing
-- The logic and view unit testing with Jest, and similar
-- MongoDB, MySQL, Postgres
-- WebAssembly
-- Object-oriented, functional, declarative, and imperative paradigm
-- Experience in distributed systems and modern software architecture
-- Kanban and Scrum methodologies
-- Open Source evangelist
-- Remote worker
-
-
 ## Work experience
 
 **[Card of the Day](http://card-of-the-day.com/get-app)** - **principal software engineer, and architect roles** - (contract, remote) - _2020 – 2021 (8 mos)_
@@ -82,6 +64,25 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 
 **See more professional experience on the Linkedin profile page ([linkedin.com/in/betula](http://linkedin.com/in/betula)).**
 
+
+### Skills
+
+- Typescript, Javascript
+- React, Mobx, Redux (+eco)
+- Node.js (+express eco), NestJS
+- React Native
+- Webpack (+eco) with [custom plugin development experience](https://github.com/betula/babel-plugin-jsx-wrapper)
+- Cascading style sheets preprocessing
+- The logic and view unit testing with Jest, and similar
+- MongoDB, MySQL, Postgres
+- WebAssembly
+- Object-oriented, functional, declarative, and imperative paradigm
+- Experience in distributed systems and modern software architecture
+- Kanban and Scrum methodologies
+- Open Source evangelist
+- Remote worker
+
+
 ## Open Source
 
 **[Realar advanced state manager](https://github.com/betula/realar)** - (founder) -  _2020 – 2021_ - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
@@ -98,6 +99,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 - Developed a fully functional state management system through just one React hook.
 
 <sup>React, Typescript, Minimalism</sup>
+
 
 ## Technical writer
 
