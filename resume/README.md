@@ -2,7 +2,7 @@
 
 ## Slava Birch
 
-### Senior Full-Stack and Software Architect
+#### Senior Full-Stack and Software Architect
 
 </div>
 
@@ -14,7 +14,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 + Github: [github.com/betula](https://github.com/betula)
 
 
-## Skills
+### Skills
 
 - Typescript, Javascript
 - React, Mobx, Redux (+eco)
