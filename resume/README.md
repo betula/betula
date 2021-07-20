@@ -32,7 +32,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 - Remote worker
 
 
-### Work experience
+## Work experience
 
 **[Card of the Day](http://card-of-the-day.com/get-app)** - **principal software engineer, and architect roles** - (contract, remote) - _2020 – 2021 (8 mos)_
 
