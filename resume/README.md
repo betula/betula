@@ -65,7 +65,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 **See more professional experience on the Linkedin profile page ([linkedin.com/in/betula](http://linkedin.com/in/betula)).**
 
 
-### Skills
+## Skills
 
 - Typescript, Javascript
 - React, Mobx, Redux (+eco)
