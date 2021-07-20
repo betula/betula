@@ -1,6 +1,10 @@
 <div align="center">
 
-### Slava Birch
+<sub>
+
+## Slava Birch
+
+</sub>
 
 #### Senior Full-Stack and Software Architect
 
