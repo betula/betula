@@ -84,7 +84,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 
 ## Open Source
 
-**[Realar advanced state manager](https://github.com/betula/realar#readme)** - (founder) -  _2020 – 2021_ - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
+**[Realar advanced state manager](https://github.com/betula/realar)** - (founder) -  _2020 – 2021_ - the progressive Open Source state manager for React that provides the possibility for convenient using object-oriented principles on the same side with functional programming for an application state and actions control.
 
 - Experience in applying the theory of programming to the most difficult issue in the frontend field.
 - Developed a special code style of javascript for the best delivery with an incredible lightweight bundle size.
@@ -92,7 +92,7 @@ I live in Thailand (GMT+7), and can be in touch from 13:00 to 21:00 by Melbourne
 
 <sup>React, Typescript, Npm packages publishing, Webpack, Jest, Node.JS, Babel plugin development, Lerna, Low-Level JavaScript, Design Patterns, Performance, Technical writer.</sup>
 
-**[use-between](https://github.com/betula/realar#readme)** - (founder) - _2020_ - the easiest way for sharing React state.
+**[use-between](https://github.com/betula/use-between)** - (founder) - _2020_ - the easiest way for sharing React state.
 
 - Deep experience in the internal React code kitchen.
 - Developed a fully functional state management system through just one React hook.
