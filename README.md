@@ -1,5 +1,3 @@
-Looking for a remote job :star: [resume](https://github.com/betula/resume/blob/master/README.md#readme)
-
 I’m currently working on [Realar 5kB advanced state manager](https://github.com/betula/realar) for React :+1: and looking for a sponsor!
 
 [My articles on dev.to](https://dev.to/betula) :book:
@@ -7,6 +5,9 @@ I’m currently working on [Realar 5kB advanced state manager](https://github.co
 Unexpectedly, the author of the [![450k+ downloaded](https://img.shields.io/npm/dt/svg-path-bounding-box?style=flat-square) npm package](https://www.npmjs.com/package/svg-path-bounding-box) :flushed:
 
 Cheers and happy coding! 👋
+
+:star: [resume](https://github.com/betula/resume/blob/master/README.md#readme)
+
 <p align="left">
     <a href="https://t.me/betula17"><img alt="Telegram"
                 src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=flat-square&logo=telegram&logoColor=white"></a>
