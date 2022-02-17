@@ -2,7 +2,7 @@ I’m currently working on [Realar 5kB advanced state manager](https://github.co
 
 [My articles on dev.to](https://dev.to/betula) :book:
 
-Unexpectedly, the author of the [![450k+ downloaded](https://img.shields.io/npm/dt/svg-path-bounding-box?style=flat-square) npm package](https://www.npmjs.com/package/svg-path-bounding-box) :flushed:
+Author of the [![100k+ downloaded](https://img.shields.io/npm/dt/use-between?style=flat-square) npm package](https://github.com/betula/use-between) :flushed:
 
 Cheers and happy coding! 👋
 
