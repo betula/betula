@@ -6,7 +6,7 @@ Author of the [![100k+ downloaded](https://img.shields.io/npm/dt/use-between?sty
 
 Cheers and happy coding! 👋
 
-<!-- :star: [resume](https://github.com/betula/resume/blob/master/README.md#readme) -->
+:star: [resume](https://github.com/betula/resume/blob/master/README.md#readme)
 
 <p align="left">
     <a href="https://t.me/betula17"><img alt="Telegram"
