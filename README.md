@@ -1,4 +1,4 @@
-I’m currently working on [Remini](https://github.com/betula/remini) simple and powerful state management in React.
+I’m currently working on [Remini](https://github.com/betula/remini) highly efficient state management in React and Preact.
 
 My last project [Card of Day](http://card-of-day.com/get-app) react-native app :+1:
 
