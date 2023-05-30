@@ -1,3 +1,5 @@
+## :star: [Link to my CV or resume](https://github.com/betula/resume/blob/master/README.md#readme)
+
 I’m currently working on [Remini](https://github.com/betula/remini) highly efficient state management in React and Preact.
 
 My last project [Card of Day](http://card-of-day.com/get-app) react-native app :+1:
@@ -7,8 +9,6 @@ Author of the [![100k+ downloaded](https://img.shields.io/npm/dt/use-between?sty
 [My articles on dev.to](https://dev.to/betula) :book:
 
 Cheers and happy coding! 👋
-
-:star: [resume](https://github.com/betula/resume/blob/master/README.md#readme)
 
 <p align="left">
     <a href="https://t.me/betula17"><img alt="Telegram"
