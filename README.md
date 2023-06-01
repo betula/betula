@@ -11,8 +11,14 @@ Author of the [![100k+ downloaded](https://img.shields.io/npm/dt/use-between?sty
 Cheers and happy coding! 👋
 
 <p align="left">
-    <a href="https://t.me/betula17"><img alt="Telegram"
-                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=flat-square&logo=telegram&logoColor=white"></a>
+<p><a href="https://wa.me/5491176110616"><img alt="WhatsApp"
+src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=flat-square&logo=WhatsApp&logoColor=white"></a>
+<a href="https://wa.me/5491176110616">wa.me/5491176110616</a></p>
+    
+<p><a href="https://t.me/betula17"><img alt="Telegram"
+src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=flat-square&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/betula17">t.me/betula17</a></p>
+
 <!-- </p>
 <p align="left"> -->
 <!-- <a href="https://www.paypal.me/betula17/3"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Sponsor" alt="To sponsor Slava Birch's research in the Open Source area"/></a> -->
