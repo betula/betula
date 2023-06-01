@@ -16,7 +16,7 @@ src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=flat-square&logo=Wh
 <a href="https://wa.me/5491176110616">wa.me/5491176110616</a></p>
     
 <p><a href="https://t.me/betula17"><img alt="Telegram"
-src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=flat-square&logo=telegram&logoColor=white"></a>
+src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=flat-square&logo=Telegram&logoColor=white"></a>
 <a href="https://t.me/betula17">t.me/betula17</a></p>
 
 <!-- </p>
