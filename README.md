@@ -19,6 +19,10 @@ src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=flat-square&logo=Wh
 src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=flat-square&logo=Telegram&logoColor=white"></a>
 <a href="https://t.me/betula17">t.me/betula17</a></p>
 
+<p><a href="https://linkedin.com/in/betula"><img alt="LinkedIn"
+src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat-square&logo=LinkedIn&logoColor=white"></a>
+<a href="https://linkedin.com/in/betula">linkedin.com/in/betula</a></p>
+
 <!-- </p>
 <p align="left"> -->
 <!-- <a href="https://www.paypal.me/betula17/3"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Sponsor" alt="To sponsor Slava Birch's research in the Open Source area"/></a> -->
