@@ -11,9 +11,9 @@ Author of the [![100k+ downloaded](https://img.shields.io/npm/dt/use-between?sty
 Cheers and happy coding! 👋
 
 <p align="left">
-<p><a href="https://wa.me/5491176110616"><img alt="WhatsApp"
+<p><a href="https://wa.me/79281435560"><img alt="WhatsApp"
 src="https://img.shields.io/badge/WhatsApp-25D366.svg?&style=flat-square&logo=WhatsApp&logoColor=white"></a>
-<a href="https://wa.me/5491176110616">wa.me/5491176110616</a></p>
+<a href="https://wa.me/79281435560">wa.me/79281435560</a></p>
     
 <p><a href="https://t.me/betula17"><img alt="Telegram"
 src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=flat-square&logo=Telegram&logoColor=white"></a>
