@@ -1,8 +1,8 @@
 ## :star: [Link to my CV or resume](https://github.com/betula/resume/blob/master/README.md#readme)
 
-I’m currently working on [Remini](https://github.com/betula/remini) highly efficient state management in React and Preact.
-
 Thinking about changing the world with [Re-js](https://github.com/re-js).
+
+I’m currently working on [Remini](https://github.com/betula/remini) highly efficient state management in React and Preact.
 
 My last project [Card of Day](http://card-of-day.com/get-app) react-native app :+1:
 
