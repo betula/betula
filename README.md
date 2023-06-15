@@ -2,6 +2,8 @@
 
 I’m currently working on [Remini](https://github.com/betula/remini) highly efficient state management in React and Preact.
 
+Thinking about changing the world with [Re-js](https://github.com/re-js).
+
 My last project [Card of Day](http://card-of-day.com/get-app) react-native app :+1:
 
 Author of the [![100k+ downloaded](https://img.shields.io/npm/dt/use-between?style=flat-square)](https://github.com/betula/use-between) [use-between](https://github.com/betula/use-between) hook for sharing state :blush:
